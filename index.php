@@ -9,9 +9,9 @@
 
 </head>
 <body>
-    <font size="14" name="Tempus Sans">
+    <font size="14" name="Tempus Sans" color="blue">
         <marquee>
-            SALUDOS CORDIALES
+            SALUDOS CORDIALES TICsitos
         </marquee>
     </font>
 </body>
